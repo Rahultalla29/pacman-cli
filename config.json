@@ -1,0 +1,15 @@
+{
+    "map": "map.txt",
+    "lives": 3,
+    "speed": 1,
+    "modeLengths": [
+        1,
+        2,
+        2,
+        2
+
+
+
+    ],
+    "frightenedLength" : 2
+}
